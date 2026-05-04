@@ -1,4 +1,4 @@
-package com.example.reservation.View
+package com.example.reservation.Ui.Screen
 
 import androidx.compose.foundation.layout.*
 import androidx.compose.material3.*
